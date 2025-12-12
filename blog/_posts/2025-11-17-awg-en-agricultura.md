@@ -6,7 +6,7 @@ sitemap: false
 hide_last_modified: true
 ---
 
-Resumen  claro, técnico y organizado de todos los sistemas de refrigeración aplicables a la generación de agua atmosférica (AWG), para que tener un mapa completo antes de entrar a híbridos.
+Resumen  claro, técnico y organizado de todos los sistemas de refrigeración aplicables a la generación de agua atmosférica (AWG), para tener un mapa completo antes de entrar a los sistemas híbridos.
 
 # Por qué es urgente mitigar la escasez de agua y el estrés hídrico en la agricultura
 
@@ -91,7 +91,7 @@ Los **AWG (Atmospheric Water Generators)** convierten la humedad del aire en agu
 - Funcionan incluso con **baja humedad** si se usan tecnologías higroscópicas o híbridas.
 - **Compatibles con energía solar** (eléctrica o térmica).
 - **No sobreexplotan acuíferos**.
-- Su capacidad es **modular y escalable**.
+- Su capacidad puede ser **modular y escalable**.
 
 
 
@@ -116,7 +116,7 @@ Este documento organiza de manera técnica todos los sistemas de refrigeración 
 
 
 
-## 1. Refrigeración por Absorción (Ag–NH₃, LiBr–H₂O)
+## 1. Refrigeración por Absorción (H₂O –NH₃, LiBr–H₂O)
 
 ### Funcionamiento
 Utiliza una fuente de calor externo en lugar de un compresor mecánico.  
