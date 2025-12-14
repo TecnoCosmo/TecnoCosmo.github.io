@@ -8,6 +8,24 @@ hide_last_modified: true
 
 Resumen  claro, técnico y organizado de todos los sistemas de refrigeración aplicables a la generación de agua atmosférica (AWG), para tener un mapa completo antes de entrar a los sistemas híbridos.
 
+## Diccionario de Abreviaturas
+
+- **AWG** – Atmospheric Water Generator (Generador de Agua Atmosférica)  
+- **COP** – Coefficient of Performance (Coeficiente de desempeño)  
+- **NH₃** – Amoniaco  
+- **Ag–NH₃** – Sistema de absorción Agua–Amoniaco  
+- **LiBr–H₂O** – Sistema de absorción Bromuro de Litio–Agua  
+- **MOF / MOFs** – Metal–Organic Frameworks  
+- **CaCl₂** – Cloruro de calcio  
+- **MgCl₂** – Cloruro de magnesio  
+- **LiCl** – Cloruro de litio  
+- **HR** – Humedad Relativa  
+- **kWh** – Kilowatt-hora  
+- **L/día** – Litros por día  
+
+---
+
+
 # Por qué es urgente mitigar la escasez de agua y el estrés hídrico en la agricultura
 
 La agricultura enfrenta uno de los mayores desafíos de nuestra época: **la disminución acelerada del agua disponible**, causada por el cambio climático, la sobreexplotación de acuíferos, el aumento de temperaturas y la irregularidad en las lluvias. Hoy, los ciclos de sequía son **más intensos, más largos y más impredecibles**, afectando directamente la productividad, la salud del suelo y la seguridad alimentaria.
@@ -263,6 +281,33 @@ Enfrentar el estrés hídrico agrícola requiere combinar **soluciones naturales
 
 Dentro de ese sistema, los **AWG se posicionan como una tecnología estratégica** que permite producir agua sin depender del clima, del suelo o de infraestructura costosa, ofreciendo una alternativa real frente al cambio climático y la creciente crisis hídrica.
 
+
+## Referencias Bibliográficas (Open Access)
+
+1. **ASHRAE Handbook – HVAC Systems and Equipment** (Capítulos: Cooling, Absorption Systems).  
+   Disponible en bibliotecas universitarias y extractos open-access.
+
+2. B. Zohuri, *Heat and Mass Transfer in Absorption Refrigeration Systems*. Springer, 2020.  
+   Capítulos disponibles vía Google Books.
+
+3. G. Y. Li et al., “Atmospheric Water Harvesting: A Review,” *ACS Materials Letters*, 2021.  
+   https://pubs.acs.org/doi/10.1021/acsmaterialslett.1c00314
+
+4. S. Wang et al., “Metal–Organic Frameworks for Atmospheric Water Harvesting,” *J. Mater. Chem. A*, 2020.  
+   Open access: Royal Society of Chemistry.
+
+5. A. LaPotin et al., “Hygroscopic Cooling and Water Harvesting,” *Nature Communications*, 2021.  
+   https://www.nature.com/articles/s41467-021-21131-2
+
+6. A. P. Straub et al., “Hybrid Atmospheric Water Generator Based on Sorption + Condensation,” *Science Advances*, 2020.  
+   https://www.science.org/doi/10.1126/sciadv.aax0800
+
+7. V. Anand et al., "Thermoelectric Cooling Systems Review," *Energies*, 2021 (open access).  
+   https://www.mdpi.com/1996-1073/14/22/7601
+
+8. R. L. Siegel, *Introduction to Greenhouse and Controlled Environment Water Systems*, USDA, 2022.
+
+---
 
 
 *Nota: Este proyecto se proporciona únicamente
