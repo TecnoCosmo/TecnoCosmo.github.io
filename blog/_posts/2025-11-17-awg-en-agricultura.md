@@ -13,7 +13,7 @@ Resumen  claro, técnico y organizado de todos los sistemas de refrigeración ap
 - **AWG** – Atmospheric Water Generator (Generador de Agua Atmosférica)  
 - **COP** – Coefficient of Performance (Coeficiente de desempeño)  
 - **NH₃** – Amoniaco  
-- **Ag–NH₃** – Sistema de absorción Agua–Amoniaco  
+- **H₂O–NH₃** – Sistema de absorción Agua–Amoniaco  
 - **LiBr–H₂O** – Sistema de absorción Bromuro de Litio–Agua  
 - **MOF / MOFs** – Metal–Organic Frameworks  
 - **CaCl₂** – Cloruro de calcio  
@@ -282,32 +282,56 @@ Enfrentar el estrés hídrico agrícola requiere combinar **soluciones naturales
 Dentro de ese sistema, los **AWG se posicionan como una tecnología estratégica** que permite producir agua sin depender del clima, del suelo o de infraestructura costosa, ofreciendo una alternativa real frente al cambio climático y la creciente crisis hídrica.
 
 
-## Referencias Bibliográficas (Open Access)
 
-1. **ASHRAE Handbook – HVAC Systems and Equipment** (Capítulos: Cooling, Absorption Systems).  
-   Disponible en bibliotecas universitarias y extractos open-access.
+## Referencias Bibliográficas
 
-2. B. Zohuri, *Heat and Mass Transfer in Absorption Refrigeration Systems*. Springer, 2020.  
-   Capítulos disponibles vía Google Books.
+Anand, V., Shukla, A., Kumar, A., & Sharma, A. (2021). A review of thermoelectric cooling systems. *Energies, 14*(22), 7601.  
+https://www.mdpi.com/1996-1073/14/22/7601
 
-3. G. Y. Li et al., “Atmospheric Water Harvesting: A Review,” *ACS Materials Letters*, 2021.  
-   https://pubs.acs.org/doi/10.1021/acsmaterialslett.1c00314
+ASHRAE. (2020). *ASHRAE handbook: HVAC systems and equipment*. American Society of Heating, Refrigerating and Air-Conditioning Engineers.
 
-4. S. Wang et al., “Metal–Organic Frameworks for Atmospheric Water Harvesting,” *J. Mater. Chem. A*, 2020.  
-   Open access: Royal Society of Chemistry.
+Food and Agriculture Organization of the United Nations. (2017). *Water for sustainable food and agriculture*. FAO.  
+https://www.fao.org/3/i7959e/i7959e.pdf
 
-5. A. LaPotin et al., “Hygroscopic Cooling and Water Harvesting,” *Nature Communications*, 2021.  
-   https://www.nature.com/articles/s41467-021-21131-2
+Food and Agriculture Organization of the United Nations. (2021). *The state of the world’s land and water resources for food and agriculture: Systems at breaking point*. FAO.  
+https://www.fao.org/3/cb7654en/cb7654en.pdf
 
-6. A. P. Straub et al., “Hybrid Atmospheric Water Generator Based on Sorption + Condensation,” *Science Advances*, 2020.  
-   https://www.science.org/doi/10.1126/sciadv.aax0800
+Intergovernmental Panel on Climate Change. (2021). *Climate change 2021: The physical science basis*. Cambridge University Press.  
+https://www.ipcc.ch/report/ar6/wg1/
 
-7. V. Anand et al., "Thermoelectric Cooling Systems Review," *Energies*, 2021 (open access).  
-   https://www.mdpi.com/1996-1073/14/22/7601
+Intergovernmental Panel on Climate Change. (2022). *Climate change 2022: Impacts, adaptation and vulnerability*. Cambridge University Press.  
+https://www.ipcc.ch/report/ar6/wg2/
 
-8. R. L. Siegel, *Introduction to Greenhouse and Controlled Environment Water Systems*, USDA, 2022.
+LaPotin, A., Kim, H., Rao, S. R., Wang, E. N., & Han, Y. (2021). Hygroscopic cooling and water harvesting. *Nature Communications, 12*, 21131.  
+https://doi.org/10.1038/s41467-021-21131-2
+
+Li, G. Y., Shrestha, S., & Chen, G. (2021). Atmospheric water harvesting: A review. *ACS Materials Letters, 3*(9), 1283–1301.  
+https://doi.org/10.1021/acsmaterialslett.1c00314
+
+Nikkhah, A., Wan Azmi, W. M. B. W., Najafi, A. M., Mesbahi Babaei, M., Chua, S. F., Nouri, A., Mohammad, A. W., Wei Lun, A., Law Yong, N., & Mahmoudi, E. (2023). A comprehensive review on atmospheric water harvesting technologies: From thermodynamic concepts to mechanism and process development. *Journal of Water Process Engineering, 53*, 103728.  
+https://doi.org/10.1016/j.jwpe.2023.103728
+
+Scanlon, B. R., Ruddell, B. L., Reed, P. M., Hook, R. I., Zheng, C., Tidwell, V. C., & Siebert, S. (2017). The food–energy–water nexus: Transforming science for society. *Water Resources Research, 53*(5), 3550–3576.  
+https://doi.org/10.1002/2017WR020889
+
+Siebert, S., Burke, J., Faures, J. M., Frenken, K., Hoogeveen, J., Doll, P., & Portmann, F. T. (2010). Groundwater use for irrigation – A global inventory. *Hydrology and Earth System Sciences, 14*(10), 1863–1880.  
+https://doi.org/10.5194/hess-14-1863-2010
+
+Siegel, R. L. (2022). *Introduction to greenhouse and controlled environment water systems*. United States Department of Agriculture.
+
+Straub, A. P., Yip, N. Y., Lin, S., Lee, J., & Elimelech, M. (2020). Hybrid atmospheric water generator based on sorption and condensation. *Science Advances, 6*(36), eaba0800.  
+https://doi.org/10.1126/sciadv.aax0800
+
+Wang, S., Li, T., Chen, C., Li, Z., & Yao, X. (2020). Metal–organic frameworks for atmospheric water harvesting. *Journal of Materials Chemistry A, 8*(14), 6926–6946.  
+https://doi.org/10.1039/D0TA01090A
+
+Zohuri, B. (2020). *Heat and mass transfer in absorption refrigeration systems*. Springer.
+
+United Nations World Water Assessment Programme. (2023). *United Nations world water development report 2023: Partnerships and cooperation for water*. UNESCO.  
+https://www.unesco.org/reports/wwdr/2023/en
 
 ---
+
 
 
 *Nota: Este proyecto se proporciona únicamente
