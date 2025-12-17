@@ -39,7 +39,7 @@ Puedes escribirnos un correo electrónico a nuestra dirección principal:
 - Twitter: [@TecnoKosmo](https://twitter.com/TecnoKosmo)
 - Instagram: [@tecnokosmo](https://www.instagram.com/tecnokosmo)
 
-### Dirección
+# Dirección
 
 Si prefieres visitarnos en persona, aquí está nuestra ubicación:
 
