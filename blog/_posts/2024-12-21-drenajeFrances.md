@@ -3,7 +3,7 @@ layout: post
 title: Drenaje Francés
 description: >
   Descubre el drenaje francés: qué es, cuándo instalarlo y sus pros y contras. Este sistema eficaz de drenaje subterráneo puede resolver problemas de humedad y escorrentía, pero también tiene consideraciones importantes que debes tener en cuenta antes de instalarlo.
-sitemap: false
+sitemap: true
 hide_last_modified: true
 ---
 
