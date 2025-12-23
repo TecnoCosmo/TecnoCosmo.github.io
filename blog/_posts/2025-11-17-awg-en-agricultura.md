@@ -2,7 +2,7 @@
 layout: post
 title: "AWG en Agricultura"
 description: Cómo elegir el sistema AWG ideal según humedad, energía y presupuesto
-sitemap: false
+sitemap: true
 hide_last_modified: true
 ---
 
