@@ -3,7 +3,7 @@ layout: post
 title: Guía Gratuita para Control de Plagas con MNB de Ozono
 description: >
   Comienza a proteger tus cultivos de manera innovadora y sostenible con micro y nano burbujas de ozono.
-sitemap: false
+sitemap: true
 hide_last_modified: true
 ---
 

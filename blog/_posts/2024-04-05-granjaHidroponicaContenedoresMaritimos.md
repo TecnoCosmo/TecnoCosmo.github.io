@@ -3,7 +3,7 @@ layout: post
 title: Granja Hidropónica en Contenedores Marítimos
 description: >
   Descubre todos los pasos para establecer y gestionar tu propia granja hidropónica en contenedores marítimos con nuestra guía gratuita.
-sitemap: false
+sitemap: true
 hide_last_modified: true
 ---
 

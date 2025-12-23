@@ -3,7 +3,7 @@ layout: post
 title: Crea tu Propia Crema Labial con Propóleo y Vitamina C contra el Herpes
 description: >
   Descubre cómo elaborar una crema labial natural con propóleo y Vitamina C para unos labios suaves y protegidos contra el Herpes.
-sitemap: false
+sitemap: true
 hide_last_modified: true
 ---
 

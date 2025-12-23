@@ -3,7 +3,7 @@ layout: post
 title: Transformando Industrias con Micro y Nanoburbujas, Mejorando Eficiencia y Sostenibilidad
 description: >
   Descubre cómo las micro y nanoburbujas están revolucionando diversas industrias, desde la agricultura hasta la minería, optimizando procesos y promoviendo la sostenibilidad.
-sitemap: false
+sitemap: true
 hide_last_modified: true
 ---
 

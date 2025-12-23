@@ -3,7 +3,7 @@ layout: post
 title: Revitaliza tu Agricultura, Descarga Gratis el Proyecto de Hidrogel para un Riego Eficiente
 description: >
   Mejora la retención de agua en tus cultivos y aumenta la productividad agrícola con nuestro proyecto de hidrogel.
-sitemap: false
+sitemap: true
 hide_last_modified: true
 ---
 

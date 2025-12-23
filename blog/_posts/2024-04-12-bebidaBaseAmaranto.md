@@ -3,7 +3,7 @@ layout: post
 title: Proyecto Para Crear una Bebida Innovadora a Base de Amaranto
 description: >
   ¡Descarga Gratis! Proyecto Productivo para Desarrollar una Bebida a Base de Amaranto
-sitemap: false
+sitemap: true
 hide_last_modified: true
 ---
 

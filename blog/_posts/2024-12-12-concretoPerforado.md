@@ -3,7 +3,7 @@ layout: post
 title: Concreto Perforado
 description: >
   El proyecto busca implementar una empresa especializada en la instalación de concreto perforado,que mejora la gestión pluvial en entornos urbanos, reduciendo inundaciones y promoviendo la recarga hídrica, mientras fomenta el desarrollo de infraestructura resiliente y ecoeficiente
-sitemap: false
+sitemap: true
 hide_last_modified: true
 ---
 
