@@ -3,7 +3,6 @@ layout: post
 title: Prácticas Orgánicas para la Ganadería Bovina
 description: >
   Promover prácticas agrícolas sostenibles y respetuosas con el medio ambiente.
-sitemap: false
 hide_last_modified: true
 ---
 

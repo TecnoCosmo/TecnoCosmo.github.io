@@ -3,7 +3,6 @@ layout: post
 title: Ataúdes de Micelio, Conciencia Ecológica en la Industria Funeraria
 description: >
   Descubre cómo los ataúdes de micelio ofrecen una despedida ecológica y respetuosa con el medio ambiente
-sitemap: false
 hide_last_modified: true
 ---
 

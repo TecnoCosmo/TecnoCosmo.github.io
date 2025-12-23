@@ -3,7 +3,6 @@ layout: post
 title: Unidad de Capacitación en Prácticas Agrícolas y Ganaderas Orgánicas
 description: >
   Promover prácticas agrícolas sostenibles y respetuosas con el medio ambiente.
-sitemap: false
 hide_last_modified: true
 ---
 

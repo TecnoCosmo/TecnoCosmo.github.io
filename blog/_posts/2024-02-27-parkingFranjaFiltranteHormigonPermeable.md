@@ -3,7 +3,6 @@ layout: post
 title: EcoPavimento Soluciones sostenibles, Proyecto de Calles que no se Inundan en Tiempos de Lluvias.
 description: >
   Plan para implementar franjas de estacionamiento filtrante de hormigón poroso y haz tu parte por un futuro más verde.
-sitemap: false
 hide_last_modified: true
 ---
 

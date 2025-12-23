@@ -3,7 +3,6 @@ layout: post
 title: Un Laboratorio De Robótica Para Tu Escuela
 description: >
   Proyecto Reproducible Para El Diseño E Implementación De Un Laboratorio De Robótica Para Las Escolaridades de Secundaria y Nivel Medio Superior.
-sitemap: false
 hide_last_modified: true
 ---
 

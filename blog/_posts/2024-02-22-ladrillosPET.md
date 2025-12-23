@@ -3,7 +3,6 @@ layout: post
 title: EcoLadrillos, Construcción Ecológica con Plástico Reciclado.
 description: >
   Descubre cómo convertir plástico reciclado en material para la Construcción transformación con EcoLadrillos.
-sitemap: false
 hide_last_modified: true
 ---
 

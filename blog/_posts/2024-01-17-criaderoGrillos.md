@@ -3,7 +3,6 @@ layout: post
 title: Implementación de un Criadero de Grillos
 description: >
   Emprendimiento rentable que suministra de proteína de calidad a menor impacto ambiental.
-sitemap: false
 hide_last_modified: true
 ---
 

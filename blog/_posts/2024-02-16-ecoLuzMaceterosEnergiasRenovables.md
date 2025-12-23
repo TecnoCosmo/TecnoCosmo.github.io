@@ -3,7 +3,6 @@ layout: post
 title: ¡Revolución Verde con Macetero EcoLuz, Ilumina tu Espacio de Manera Sostenible!
 description: >
   Descubre cómo Macetero EcoLuz puede transformar tu entorno con energía sostenible y diseño innovador
-sitemap: false
 hide_last_modified: true
 ---
 

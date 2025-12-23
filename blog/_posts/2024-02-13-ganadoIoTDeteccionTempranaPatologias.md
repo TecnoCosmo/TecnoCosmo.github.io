@@ -3,7 +3,6 @@ layout: post
 title: Ganado 4.0, Transformando la Ganadería con Tecnología IoT para un Monitoreo Inteligente del Ganado
 description: >
   Tecnología IoT en la Ganadería, para la Detección Temprana de Patologías
-sitemap: false
 hide_last_modified: true
 ---
 

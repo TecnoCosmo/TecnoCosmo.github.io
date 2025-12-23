@@ -3,7 +3,6 @@ layout: post
 title: Proyecto de Sistema de Posicionamiento Global (GPS) con Red de Comunicación 5G
 description: >
   Tecnología IoT para Gestión Eficiente de Activos Móviles
-sitemap: false
 hide_last_modified: true
 ---
 

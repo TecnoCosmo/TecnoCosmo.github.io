@@ -3,7 +3,6 @@ layout: post
 title: Cocinas Solares Comunitarias, Transformando la Cocción y Empoderando Comunidades
 description: >
   Un método sostenible, económico  y de empoderamiento en la cocina solar.
-sitemap: false
 hide_last_modified: true
 ---
 

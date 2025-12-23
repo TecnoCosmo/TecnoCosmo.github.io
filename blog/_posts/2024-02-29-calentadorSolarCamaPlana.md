@@ -3,7 +3,6 @@ layout: post
 title: ¡Construye tu Propio Calentador Solar y Ahorra Energía!
 description: >
   Descarga nuestras instrucciones detalladas y haz tu propio calentador solar de cama plana para un hogar más sostenible y eficiente.
-sitemap: false
 hide_last_modified: true
 ---
 

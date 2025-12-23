@@ -3,7 +3,6 @@ layout: post
 title: Transforma tu ciudad en una esponja, conoce el proyecto de gestión del agua urbana
 description: >
   Implementa estrategias sostenibles para gestionar el agua en tu ciudad y promover la resiliencia climática. Descarga el proyecto completo y haz la diferencia hoy mismo. 
-sitemap: false
 hide_last_modified: true
 ---
 

@@ -3,7 +3,6 @@ layout: post
 title: Manufactura las más Eficientes hélices Eólicas del Mercado, Proyecto Inspirado en la Hélice Espiral de Arquímedes
 description: >
   Hélice Eólica, proyecto inspirado en la innovadora espiral de Arquímedes
-sitemap: false
 hide_last_modified: true
 ---
 

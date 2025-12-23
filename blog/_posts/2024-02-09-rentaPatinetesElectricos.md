@@ -3,7 +3,6 @@ layout: post
 title: Servicio de Renta de Monopatines Eléctricos con Recarga Solar
 description: >
   Emprendimiento de movilidad sostenible de renta de patinetes eléctricos con recarga solar.
-sitemap: false
 hide_last_modified: true
 ---
 

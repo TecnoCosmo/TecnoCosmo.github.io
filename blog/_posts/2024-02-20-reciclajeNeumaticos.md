@@ -3,7 +3,6 @@ layout: post
 title: Reciclaje de Neumáticos
 description: >
   Únete a la Revolución del Reciclaje! Transformando Neumáticos Usados en Adoquines
-sitemap: false
 hide_last_modified: true
 ---
 

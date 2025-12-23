@@ -3,7 +3,6 @@ layout: post
 title: Chinampas Modernas, Transforma tu Comunidad con Agricultura Sostenible
 description: >
   Proyecto de Chinampas Modernas y convierte tu comunidad en un oasis de sostenibilidad y seguridad alimentaria
-sitemap: false
 hide_last_modified: true
 ---
 

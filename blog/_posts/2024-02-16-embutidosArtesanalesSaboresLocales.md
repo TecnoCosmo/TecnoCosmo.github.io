@@ -3,7 +3,6 @@ layout: post
 title: ¡Haz Realidad tu Pasión Gastronómica!, Embutidos Artesanales con Sabores Tropicales"
 description: >
   Embutidos artesanales tropicales: sabores únicos, pasión por la cocina
-sitemap: false
 hide_last_modified: true
 ---
 

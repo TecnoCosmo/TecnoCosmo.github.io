@@ -3,7 +3,6 @@ layout: post
 title: Innovación Sostenible, Techos Ecológicos con Residuos de Tetra Pak
 description: >
   Descubre cómo convertir residuos en oportunidades de negocio conviertiendolos en techos ecológicos fabricados a partir de empaques de Tetra Pak
-sitemap: false
 hide_last_modified: true
 ---
 

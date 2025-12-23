@@ -3,7 +3,6 @@ layout: post
 title: Gestión de Residuos Orgánicos para compostaje.
 description: >
   Emprendimiento de separación y trituración de residuos orgánicos para composta
-sitemap: false
 hide_last_modified: true
 ---
 

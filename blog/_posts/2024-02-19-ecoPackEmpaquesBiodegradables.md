@@ -3,7 +3,6 @@ layout: post
 title: EcoPack, Moldes y Empaques Sostenibles de Micelio
 description: >
   Transforma tu embalaje con EcoPack: una solución eco-friendly y biodegradable para un mundo más verde
-sitemap: false
 hide_last_modified: true
 ---
 Descubre una forma innovadora y sostenible de empaquetar tus productos con nuestro proyecto EcoPack. Los moldes y empaques están hechos de micelio, un material biodegradable y respetuoso con el medio ambiente que ofrece una alternativa eco-friendly a los materiales convencionales.

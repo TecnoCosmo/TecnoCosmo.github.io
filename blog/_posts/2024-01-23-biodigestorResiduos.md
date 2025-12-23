@@ -3,7 +3,6 @@ layout: post
 title: Biodigestor de Residuos Agrícolas y Orgánicos
 description: >
   Beneficios del proyecto de Agroindustria de Transformación de Residuos Agrícolas y Ganaderos en Biogás.
-sitemap: false
 hide_last_modified: true
 ---
 

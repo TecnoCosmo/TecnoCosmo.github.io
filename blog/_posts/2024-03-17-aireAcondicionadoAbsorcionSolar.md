@@ -3,7 +3,6 @@ layout: post
 title: Aire Acondicionado Solar con Tubos de Vacío
 description: >
   Cómo implementar un sistema de aire acondicionado por absorción con energía solar utilizando tubos de vacío.
-sitemap: false
 hide_last_modified: true
 ---
 

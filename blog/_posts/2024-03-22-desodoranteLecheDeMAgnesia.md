@@ -3,7 +3,6 @@ layout: post
 title: Descubre la Leche de Magnesia como Desodorante Natural
 description: >
   Conoce por qué es importante evitar el aluminio en tus desodorantes y encuentra en la leche de magnesia una alternativa natural y segura para mantener tus axilas frescas y saludables.
-sitemap: false
 hide_last_modified: true
 ---
 

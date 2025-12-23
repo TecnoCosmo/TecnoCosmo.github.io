@@ -3,7 +3,6 @@ layout: post
 title: ¡Descubre el Futuro del Tocino! Presentamos, Micelio Bacon
 description: >
   Tocino Vegano Cultivando Micelio
-sitemap: false
 hide_last_modified: true
 ---
 

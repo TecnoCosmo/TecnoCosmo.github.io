@@ -3,7 +3,6 @@ layout: post
 title: Comparativa, Antipiojos con Insecticidas vs. Dimeticona Copoliol
 description: >
   Descubre las diferencias entre los tratamientos convencionales y los más suaves para combatir los piojos, ¡toma la decisión más informada para tu familia!
-sitemap: false
 hide_last_modified: true
 ---
 

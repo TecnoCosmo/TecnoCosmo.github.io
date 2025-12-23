@@ -3,7 +3,6 @@ layout: post
 title: Construyendo un Futuro Sostenible, Descubre los Increíbles Beneficios de los Ladrillos de Micelio
 description: >
   Explora una alternativa eco-amigable y revolucionaria en la construcción, ¡ladrillos de micelio para un futuro más verde!
-sitemap: false
 hide_last_modified: true
 ---
 

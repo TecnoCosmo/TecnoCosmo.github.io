@@ -3,7 +3,6 @@ layout: post
 title: Guía Completa para Implementar un Sistema de Captación de Agua de Lluvia en tu Hogar.
 description: >
   Descubre Cómo Capturar la Lluvia y Hazla Útil.
-sitemap: false
 hide_last_modified: true
 ---
 

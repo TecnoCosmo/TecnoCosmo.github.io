@@ -3,7 +3,6 @@ layout: post
 title: Revolucionando la Moda, ¡Proyecto de Piel Textil a Base de Setas Ahora!
 description: >
   Descubre cómo transformar la moda con el proyecto de piel textil ecoamigable a base de setas
-sitemap: false
 hide_last_modified: true
 ---
 

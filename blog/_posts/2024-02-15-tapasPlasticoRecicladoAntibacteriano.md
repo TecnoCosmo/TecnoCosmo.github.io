@@ -3,7 +3,6 @@ layout: post
 title: Redefiniendo la Ciudad, Tapas Innovadoras de Alcantarillado y Registros Antibacterianos con Plástico Reciclado
 description: >
   Desarrollo de tapas de alcantarillado y registros públicos con plástico reciclado y tratamiento antibacteriano para promover la sostenibilidad urbana y la salud pública
-sitemap: false
 hide_last_modified: true
 ---
 

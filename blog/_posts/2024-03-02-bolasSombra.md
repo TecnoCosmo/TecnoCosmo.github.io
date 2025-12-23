@@ -3,7 +3,6 @@ layout: post
 title: Bolas de Sombra, Conservación del Agua y Prevención de Algas
 description: >
    Proyecto detallado que ofrece una guía paso a paso para la fabricación y aplicación de bolas de sombra, diseñadas para reducir la evaporación del agua y promover prácticas sostenibles de gestión de recursos hídricos.
-sitemap: false
 hide_last_modified: true
 ---
 

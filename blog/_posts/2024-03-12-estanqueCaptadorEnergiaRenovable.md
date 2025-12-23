@@ -3,7 +3,6 @@ layout: post
 title: Sostenibilidad en las Alturas
 description: >
   Solución innovadora que combina la captación de agua de lluvia con energía renovable para promover la sostenibilidad ambiental.
-sitemap: false
 hide_last_modified: true
 ---
 

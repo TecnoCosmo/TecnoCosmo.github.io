@@ -3,7 +3,6 @@ layout: post
 title: Transforma Residuos en Recursos, Instala tu Biodigestor Tipo Taiwan
 description: >
   Proyecto para una gestión sostenible de residuos agrícolas y ganaderos.
-sitemap: false
 hide_last_modified: true
 ---
 

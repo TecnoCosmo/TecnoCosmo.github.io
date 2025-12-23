@@ -3,7 +3,6 @@ layout: post
 title: Producción de Ajo Negro.
 description: >
   Proyecto de Producción de Ajo Negro
-sitemap: false
 hide_last_modified: true
 ---
 
