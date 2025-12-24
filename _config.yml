@@ -87,7 +87,7 @@ remote_theme: hydecorp/hydejack@v9
 
 # Customizaton
 # ----------------------------------------------------------------------------------------
- 
+
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/sidebar-bg.jpg
 accent_color:          rgb(79,177,186)
@@ -251,7 +251,7 @@ hydejack:
 
   # When using Google Analytics, set to `true` to display a cookie notice banner.
   # When enabled, no user-related data will be stored until the user gives consent.
-  cookies_banner:      false
+  cookies_banner:      true
 
   # Set to `true` if you would like to add a "Powered by Hydejack" link in the footer.
   # Note that this setting has no effect when using the free version.
@@ -341,10 +341,11 @@ plugins:
 # ---------------------------------------------------------------------------------------
 
 # Where you proof that you own this site (used by jekyll-seo-tag)
-# google_site_verification: <verification-id>
+google_site_verification: 11fd3db359534dad
+
 # -- or --
-webmaster_verifications:
-  google:              11fd3db359534dad
+# webmaster_verifications:
+#   google:              11fd3db359534dad
 #   bing:                <verification-id>
 #   alexa:               <verification-id>
 #   yandex:              <verification-id>
@@ -401,21 +402,21 @@ jekyll_compose:
   default_front_matter:
     drafts:
       layout: post
-      description: > 
+      description: >
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
         path: /assets/img/sidebar-bg.jpg
     posts:
       layout: post
-      description: > 
+      description: >
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
         path: /assets/img/sidebar-bg.jpg
     projects:
       layout: project
-      description: > 
+      description: >
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
