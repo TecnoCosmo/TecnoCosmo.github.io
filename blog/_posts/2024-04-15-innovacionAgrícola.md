@@ -3,7 +3,6 @@ layout: post
 title: Ideas de Innovaciones y Buenas Prácticas en el Sector Agrícola
 description: >
   
-sitemap: true
 hide_last_modified: true
 ---
 

@@ -3,7 +3,6 @@ layout: post
 title: Encofrado en Tela
 description: >
   El proyecto busca establecer una empresa constructora especializada en el uso del encofrado en tela, una técnica innovadora y sostenible que optimiza costos, reduce tiempos de ejecución y minimiza el impacto ambiental, ofreciendo soluciones modernas para la ingeniería civil.
-sitemap: true
 hide_last_modified: true
 ---
 

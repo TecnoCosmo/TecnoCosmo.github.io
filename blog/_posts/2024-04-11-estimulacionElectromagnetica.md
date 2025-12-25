@@ -3,7 +3,6 @@ layout: post
 title: Terapia de Estimulación Magnética Transcraneal en la Esclerosis Múltiple
 description: >
   Evidencias actuales sobre las potenciales aplicaciones terapéuticas de la estimulación magnética transcraneal en la esclerosis múltiple.
-sitemap: true
 hide_last_modified: true
 ---
 

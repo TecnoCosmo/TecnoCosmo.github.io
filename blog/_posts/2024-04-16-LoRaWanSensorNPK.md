@@ -3,7 +3,6 @@ layout: post
 title: Agricultura de Precisión con Sensor NPK en una Red LoRaWAN
 description: >
   Descarga nuestra guía gratuita y descubre cómo implementar un sensor NPK en red LoRaWAN para mejorar la precisión y eficiencia en la agricultura de precisión
-sitemap: true
 hide_last_modified: true
 ---
 
